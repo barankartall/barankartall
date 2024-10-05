@@ -1,7 +1,4 @@
-### <div align="center">I'm Ahmet Batuhan Yigit, a full-time Front-End and WordPress Freelance Developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on [3DCloth_Model](https://github.com/batuhanyigitt/3DCloth_Model)  
+### <div align="center">I'm Baran Kartal Öztürk, a full-time Front-End and WordPress Freelance Developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🌱 I’m currently learning TypeScript, React.Js and Three.Js  
@@ -78,7 +75,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=batuhanyigitt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=barankartall&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -93,7 +90,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=batuhanyigitt&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=barankartall&&style=flat-square" align="center" />
 </div>  
   
 
